@@ -44,5 +44,10 @@ This project is created purely for learning and practice purposes.
 ## 📄 License
 This project is open for educational and learning use.
 - Linking external and internal pages
+- 
+📁 Project Structure (Beginner Level)
+- frontend-registration-form/
+├── registration-form.html
+└── README.md
 
 ## 📁 Project Structure
